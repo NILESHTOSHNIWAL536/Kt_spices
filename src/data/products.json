@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Kohinoor Authentic Basmati Rice 1 kg",
+      "image": "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-product-images-o491638653-p590067273-0-202411182306.jpg?im=Resize=(360,360)",
+      "price": 99.00,
+      "originalPrice": 200.00,
+      "discount": 50,
+      "isVeg": true,
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Good Life Biryani Basmati Rice 1 kg",
+      "image": "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-product-images-o491638653-p590067273-0-202411182306.jpg?im=Resize=(360,360)",
+      "price": 109.00,
+      "originalPrice": 200.00,
+      "discount": 45,
+      "isVeg": true,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Kurnool Sona Masoori Rice 26kg",
+      "image": "https://www.jiomart.com/images/product/original/494408887/kurnool-sona-masoori-rice-26kg-product-images-o494408887-p612604846-0-202510081630.jpg?im=Resize=(360,360)",
+      "price": 1019.00,
+      "originalPrice": null,
+      "discount": null,
+      "isVeg": true,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "India Gate Basmati Rice Classic 1kg",
+      "image": "https://www.jiomart.com/images/product/original/494626643/kohinoor-fest-rozana-basmati-rice-5-kg-product-images-o494626643-p612415387-0-202509081754.jpg?im=Resize=(360,360)",
+      "price": 149.00,
+      "originalPrice": 250.00,
+      "discount": 40,
+      "isVeg": true,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Fortune Basmati Rice Special 5kg",
+      "image": "https://www.jiomart.com/images/product/original/490000003/daawat-super-basmati-rice-1-kg-product-images-o490000003-p490000003-0-202506271901.jpg?im=Resize=(360,360)",
+      "price": 599.00,
+      "originalPrice": 800.00,
+      "discount": 25,
+      "isVeg": true,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Daawat Rozana Super Basmati Rice 5kg",
+      "image": "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202506271911.jpg?im=Resize=(360,360)",
+      "price": 449.00,
+      "originalPrice": 600.00,
+      "discount": 25,
+      "isVeg": true,
+      "isFavorite": false
+    }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "productId": 101,
+      "name": "Fortune Biryani Special Basmati Rice 1 kg",
+      "image": "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202506271911.jpg?im=Resize=(360,360)",
+      "price": 716.00,
+      "originalPrice": 840.00,
+      "quantity": 4,
+      "savings": 124.00,
+      "seller": "Reliance Retail",
+      "size": "1 kg",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "productId": 102,
+      "name": "Kohinoor Authentic Royale Pulao Basmati Rice 1 kg",
+      "image": "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-product-images-o491638653-p590067273-0-202411182306.jpg?im=Resize=(360,360)",
+      "price": 99.00,
+      "originalPrice": 175.00,
+      "quantity": 1,
+      "savings": 76.00,
+      "seller": "Reliance Retail",
+      "size": "1 kg",
+      "inStock": true
+    }
+  ],
+  "deliveryInfo": {
+    "startDate": "25th Oct",
+    "endDate": "28th Oct"
+  },
+  "pricing": {
+    "mrpTotal": 1015.00,
+    "discount": 200.00,
+    "deliveryFee": 0,
+    "total": 815.00,
+    "totalSavings": 200.00
+  },
+   "unavailableItems": [
+    {
+      "id": 1,
+      "name": "Lay's American Style Cream & Onion Potato Chips 48 g",
+      "image": "/images/lays-chips.jpg",
+      "seller": "Reliance Retail"
+    },
+    {
+      "id": 2,
+      "name": "Kohinoor Authentic Royale Pulao Basmati Rice 1 kg",
+      "image": "/images/kohinoor-rice.jpg",
+      "seller": "Reliance Retail"
+    }
+  ],
+  "deliveryAddress": {
+    "name": "Nilesh",
+    "type": "Home",
+    "address": "1, Kushalaya niwas Toshniwal house, 6-15-34, Gurbabadi Road, Ambedkar Colony, Nizamabad, MARUTHI SARKAR TEMPLE",
+    "city": "Nizamabad",
+    "pincode": "503002",
+    "state": "Telangana",
+    "phone": "+91 - 8978958221"
+  }
+}
+
+
