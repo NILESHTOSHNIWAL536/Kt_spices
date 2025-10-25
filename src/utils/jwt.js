@@ -4,7 +4,7 @@ const JWT_SECRET = process.env.JWT_SECRET || "your_secret_key"; // Use strong se
 const JWT_EXPIRES_IN = "7d";
 
 // Generate token
-export function generateToken(payload: any) {
+export function generateToken(payload) {
   console.log("secret key: ", JWT_SECRET);
   const token = jwt.sign(payload, JWT_SECRET);
   console.log("token : ", token);
@@ -12,7 +12,7 @@ export function generateToken(payload: any) {
 }
 
 // Verify token
-export function verifyToken(token: any) {
+export function verifyToken(token) {
   try {
     console.log("sercet key from verify: ", JWT_SECRET);
     console.log("recieved token: ", token);

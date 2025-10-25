@@ -1,6 +1,6 @@
 
 
-export async function Post(urlPath:string ,data: Object)
+export async function Post(urlPath ,data)
 {
    var res =  await fetch(urlPath,{
       method:'POST',
@@ -10,7 +10,7 @@ export async function Post(urlPath:string ,data: Object)
     return res;
 }
 
-export async function Get(urlPath:string)
+export async function Get(urlPath)
 {
    var res =  await fetch(urlPath);
    return res;

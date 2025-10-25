@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/home/page.tsx", "src/app/contact/page.js", "src/app/cart/cartpage.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/home/page.tsx", "src/app/contact/page.js", "src/app/cart/cartpage.js", "src/lib/curd.js", "src/utils/jwt.js"],
   "exclude": ["node_modules"]
 }
